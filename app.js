@@ -1,4 +1,11 @@
-let listaDeNumerosSorteados = [];
+// Meu Projeto Random-Number
+// *Jogo do número secreto*
+// *Desenvolvido por [Gabriel Simioni]*
+
+
+
+
+let listaDeNumerosSorteados = []; // Lista para armazenar números já sorteados
 let numeroLimite = 100; // Definindo o limite máximo do número secreto
 let numeroSecreto = gerarNumeroAleatorio(); // Gerando o número secreto aleatório
 let tentativas = 1; // Contador de tentativas   
